@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Madduri Pooja</h1>
 <h3 align="center">Computer Science Undergraduate building strong fundamentals in Java and Data Structures.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madduripooja&label=Profile%20views&color=0e75b6&style=flat" alt="madduripooja" /> </p>
 
 - 🔭 I’m currently working on **Building a solid foundation in core computer science concepts.**
